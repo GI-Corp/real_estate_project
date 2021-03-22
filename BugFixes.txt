@@ -1,0 +1,3 @@
+- Before running localhost or link, always clean browser cache by pressing Shift + F5
+- To add background image to front-end you need to work with style= on html
+  style="background-image: url('{% static 'img/about-bg.jpg'%}')"
